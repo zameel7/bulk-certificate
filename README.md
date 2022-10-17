@@ -15,4 +15,5 @@ Simply click on the run button in Collab for each cell. The ```▶``` button on 
 
 1. Import all necessary files needed for processing.
 2. Now in order to create the certificates in bulk, we need names in bulk which must be provided in ***excel*** file and same must be uploaded in the window when asked for during execution.
-3. (Now real cheesy layer comes into play😋) Panda is used to read excel file and then extract data.
+3. (Now real cheesy🧀 layer comes into play😋) Panda is used to read excel file and then extract data from it wherein user needs to specify the column with names explicitly which shall be made even more customized in future🔮.
+4. Upload the template of the certificate as *```.png```* through files explorer of collab.
