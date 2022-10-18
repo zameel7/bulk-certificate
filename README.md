@@ -1,6 +1,8 @@
 # Easy Bulk Certificate Maker
 A repo that helps you to create certificates📑 in bulk easily
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/zameel7/1fc832872ca614d0bbc27b6ac4fd853e/autocertificate.ipynb)
+
 ## Requirements to execute the file: -
   1. a Gmail account💌 for the requirement of Google Colab😅.
   2. an internet connection for executing code in colab.
