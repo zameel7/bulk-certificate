@@ -20,6 +20,3 @@ Simply click on the run button in Collab for each cell. The ```▶``` button on 
 5. Specify the location where the bulk of certificates will be generated.
 6. **(Now real cheesy🧀 layer comes into play😋)** Print the name at the location of the mouse pointer on the template using ```OpenCV```.
 7. Finally, the certificates are saved.
-
-![image](https://user-images.githubusercontent.com/94801952/196241870-9425e426-05d8-4465-8985-67d2aca04501.png)
-[Source : From the ***maintainer and supreme author*** of the repo himself]
