@@ -40,5 +40,6 @@ Simply click on the run button in Collab for each cell. The ```▶``` button on 
 For any Queries and Improvement feel free to contact me, au revoir👋🏼.
 
 <hr>
+
 ### Contributors:
 - [JoydeepMallick](https://github.com/JoydeepMallick)
