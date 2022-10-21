@@ -41,4 +41,4 @@ For any Queries and Improvement feel free to contact me, au revoir👋🏼.
 
 <hr>
 ### Contributors:
-- @JoydeepMallick
+- [JoydeepMallick](https://github.com/JoydeepMallick)
